@@ -1,11 +1,12 @@
 body{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
     background-color:white;
 }
 
 .card{
-    position: relative;
-    top: 200px;
-    left: 650px;
     width: 200px;
     height: 300px;
     border-radius: 5px;
